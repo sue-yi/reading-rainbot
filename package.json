@@ -6,6 +6,8 @@
   "description": "Literature for Hudlies",
   "dependencies": {
     "hubot": "^2.18.0",
+    "hubot-campfire": "^0.1.4",
+    "hubot-campfire-adapter": "^0.1.29",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
