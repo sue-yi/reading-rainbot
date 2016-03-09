@@ -1,1 +1,1 @@
-web: bin/hubot -a Slack
+web: bin/hubot -a slack
