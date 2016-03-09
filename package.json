@@ -1,0 +1,16 @@
+{
+  "name": "reading-rainbot",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "sueyi095 <sue.yi@hudl.com>",
+
+  "description": "Literature for Hudlies",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
