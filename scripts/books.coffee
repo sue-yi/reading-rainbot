@@ -12,7 +12,7 @@
 
 module.exports = (robot) ->
     # this can be along the lines of asking who is reading what, what should I read, etc.
-    # we can regex it
+    # the regex below isn't completely correct, but it's an idea to go off of
     robot.respond /(what) (is|should) (sue|i be|i) (reading|read)/i, (res) ->
         if res.match[1] is /is/i
             if res.match[2] is /sue/i #this is temp to test
