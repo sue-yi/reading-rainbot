@@ -1,2 +1,13 @@
-# Insert CoffeeScript below
+# Description:
+#   
+#
+# Dependencies:
+# 
+#
+# Configuration:
+#
+#
+# Commands:
+#
 
+module.exports = (robot) ->
