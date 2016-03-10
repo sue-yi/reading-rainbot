@@ -11,6 +11,7 @@
 #   reading-rainbot what should I read?
 #   reading-rainbot what should I be reading?
 #   reading-rainbot what is (any hudlie's name) reading?
+#   reading-rainbot hit me up with a quote
 #
 
 quotes = [
